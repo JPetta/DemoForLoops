@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\bin\Debug\netcoreapp2.1\Demo_ForLoops.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\bin\Debug\netcoreapp2.1\Demo_ForLoops.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\bin\Debug\netcoreapp2.1\Demo_ForLoops.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\bin\Debug\netcoreapp2.1\Demo_ForLoops.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\bin\Debug\netcoreapp2.1\Demo_ForLoops.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\obj\Debug\netcoreapp2.1\Demo_ForLoops.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\obj\Debug\netcoreapp2.1\Demo_ForLoops.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\obj\Debug\netcoreapp2.1\Demo_ForLoops.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\obj\Debug\netcoreapp2.1\Demo_ForLoops.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\obj\Debug\netcoreapp2.1\Demo_ForLoops.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForLoops\Demo_ForLoops\obj\Debug\netcoreapp2.1\Demo_ForLoops.pdb
